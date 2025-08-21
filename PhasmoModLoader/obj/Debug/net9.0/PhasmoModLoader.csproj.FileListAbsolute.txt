@@ -1,0 +1,17 @@
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\PhasmoModLoader.exe
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\PhasmoModLoader.deps.json
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\PhasmoModLoader.runtimeconfig.json
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\PhasmoModLoader.dll
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\PhasmoModLoader.pdb
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\bin\Debug\net9.0\AssetsTools.NET.dll
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.csproj.AssemblyReference.cache
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.AssemblyInfoInputs.cache
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.AssemblyInfo.cs
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.csproj.CoreCompileInputs.cache
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoMo.CF969C08.Up2Date
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.dll
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\refint\PhasmoModLoader.dll
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.pdb
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\PhasmoModLoader.genruntimeconfig.cache
+C:\Users\CnBarrier\Desktop\PhasmoModLoader\PhasmoModLoader\obj\Debug\net9.0\ref\PhasmoModLoader.dll
